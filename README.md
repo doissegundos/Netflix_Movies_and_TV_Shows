@@ -11,4 +11,4 @@ Este trabalho faz uma análise do dataset "TV Shows and Movies listed on Netflix
 <img src="imagens/4.png"/>
 <img src="imagens/5.png"/>
 - Relação da produção de filmes a partir da década de 90. 
-<img src="imagens/6.png"/>
+<img src="imagens/6..png"/>
